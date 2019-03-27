@@ -6,6 +6,8 @@ public class Repository {
 		
 		String repo = "my learning project";
 		System.out.println(repo);
+		Boolean myRepo = true;
+		System.out.println("my repo learning skill is : " + myRepo);
 	}
 
 }
