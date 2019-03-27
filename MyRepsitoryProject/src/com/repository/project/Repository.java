@@ -23,6 +23,9 @@ public class Repository {
 		int numb1 = 35;
 		int numb2 = numb1 + numb;
     System.out.println(numb2);
+    
+    String repRepo = "my git repository";
+    System.out.println(repRepo);
 	}
 
 }
