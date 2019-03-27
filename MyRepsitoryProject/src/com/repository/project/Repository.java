@@ -18,6 +18,8 @@ public class Repository {
 
 		Boolean myRepo = true;
 		System.out.println("my repo learning skill is : " + myRepo);
+		
+		String proRep = "start getting it";
 
 	}
 
