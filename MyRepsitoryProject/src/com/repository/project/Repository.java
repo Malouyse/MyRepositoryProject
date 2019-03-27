@@ -6,6 +6,7 @@ public class Repository {
 		
 		String repo = "my learning project";
 		System.out.println(repo);
+
 		
 		String gitRepo = "let's learn gitHub";
 		System.out.println(gitRepo);
@@ -14,7 +15,10 @@ public class Repository {
 		int num3;
 		num3 = num + num1;
 		System.out.println(num3);
-		
+
+		Boolean myRepo = true;
+		System.out.println("my repo learning skill is : " + myRepo);
+
 	}
 
 }
