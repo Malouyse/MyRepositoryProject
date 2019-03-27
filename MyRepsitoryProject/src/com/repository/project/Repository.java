@@ -6,6 +6,9 @@ public class Repository {
 		
 		String repo = "my learning project";
 		System.out.println(repo);
+		
+		String gitRepo = "let's learn gitHub";
+		System.out.println(gitRepo);
 	}
 
 }
