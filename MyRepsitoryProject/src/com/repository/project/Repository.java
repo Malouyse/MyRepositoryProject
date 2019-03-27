@@ -19,6 +19,7 @@ public class Repository {
 		Boolean myRepo = true;
 		System.out.println("my repo learning skill is : " + myRepo);
 		
+
 		int numb = 25;
 		int numb1 = 35;
 		int numb2 = numb1 + numb;
@@ -26,6 +27,10 @@ public class Repository {
     
     String repRepo = "my git repository";
     System.out.println(repRepo);
+
+		String proRep = "start getting it";
+
+
 	}
 
 }
